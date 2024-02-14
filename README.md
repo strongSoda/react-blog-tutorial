@@ -20,3 +20,11 @@
 2. Password for create Post page
 3. Improve UI and CSS
 4. Host on Netlify
+
+
+### Quick Links
+- [Hire Me](https://imran.wiki/)
+- [Coding YouTube Channel](https://www.youtube.com/@JutsuPoint)
+- [LinkedIn](https://www.linkedin.com/in/imrankhan001/)
+- [Twitter](https://twitter.com/EhThing)
+- [🎁 Screen Recording Software](https://screen.studio/@Xenr1)
